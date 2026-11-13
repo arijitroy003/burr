@@ -25,10 +25,13 @@
    :caption: Apache Burr
 
    getting_started/index
+   ui/index
    examples/index
    concepts/index
    reference/index
    contributing/index
+   security
+   ecosystem
 
 .. toctree::
    :hidden:
